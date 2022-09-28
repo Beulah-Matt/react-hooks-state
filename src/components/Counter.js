@@ -11,3 +11,8 @@ function Counter() {
 }
 
 export default Counter;
+
+// function increment() {
+//   setCount((currentCount) => currentCount + 1);
+//   setCount((currentCount) => currentCount + 1);
+// }
